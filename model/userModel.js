@@ -98,26 +98,7 @@ userScema.methods.generateAuthToken = async function () {
   }
 };
 
-userScema.methods.toJSON = function () {
 
-  const user = this
-
-  console.log(user)
-
-  const userObject = user.toObject()
-
-  console.log(userObject)
-
-  delete userObject.password
-
-  delete userObject.tokens
-
-  delete userObject.__v
-
-
-  return userObject
-
-}
 
 const usermodel = mongoose.model("user", userScema);
 
