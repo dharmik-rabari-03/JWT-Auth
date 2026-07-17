@@ -106,10 +106,9 @@ Register a new user.
 
 📷 Screenshot
 
-```
 <img width="821" height="650" alt="image" src="https://github.com/user-attachments/assets/a8625aba-2974-424e-b76d-07022c5e6a26" />
 
-```
+
 
 ---
 
@@ -139,10 +138,10 @@ Authenticate user and generate JWT Token.
 
 📷 Screenshot
 
-```
+
 <img width="1170" height="671" alt="image" src="https://github.com/user-attachments/assets/3959cc6b-53af-4714-8807-1c1c8b67732c" />
 
-```
+
 
 ---
 
@@ -164,10 +163,10 @@ Returns authenticated user.
 
 📷 Screenshot
 
-```
+
 <img width="853" height="666" alt="image" src="https://github.com/user-attachments/assets/0540d24e-f32f-4fae-9c94-0afbdc7e4e7c" />
 
-```
+
 
 ---
 
@@ -179,10 +178,10 @@ Returns all registered users.
 
 📷 Screenshot
 
-```
+
 <img width="814" height="780" alt="image" src="https://github.com/user-attachments/assets/79164b5f-04a2-4313-9e35-d79589524818" />
 
-```
+
 
 ---
 
@@ -202,10 +201,10 @@ Example
 
 📷 Screenshot
 
-```
+
 <img width="1080" height="691" alt="image" src="https://github.com/user-attachments/assets/6b235dae-2c1a-4d61-bebc-9681324ae3d6" />
 
-```
+
 
 ---
 
@@ -219,10 +218,10 @@ JWT Token Required.
 
 📷 Screenshot
 
-```
+
 <img width="861" height="593" alt="image" src="https://github.com/user-attachments/assets/1080fbf3-4d01-40f2-a852-f402d4aaf898" />
 
-```
+
 
 ---
 
@@ -236,10 +235,10 @@ JWT Token Required.
 
 📷 Screenshot
 
-```
+
 <img width="1026" height="544" alt="image" src="https://github.com/user-attachments/assets/ee3aac05-123f-4b3b-8cb0-e7062a0b3754" />
 
-```
+
 
 ---
 
@@ -253,10 +252,10 @@ JWT Token Required.
 
 📷 Screenshot
 
-```
+
 <img width="866" height="546" alt="image" src="https://github.com/user-attachments/assets/8f71484f-e226-4e46-baca-f971c07aa87f" />
 
-```
+
 
 ---
 
